@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Wedding of Christina Ruth Ladam and Julien Alonzo Houston Miller</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Ruluko&display=swap">
+  <style>
+    body {
+      font-family: 'Ruluko', sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f5f5f5;
+      color: #333;
+    }
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+      background-color: #fff;
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+    h1, h2, h3 {
+      color: #333;
+    }
+    h1 {
+      text-align: center;
+    }
+    h2 {
+      margin-top: 30px;
+    }
+    h3 {
+      margin-top: 20px;
+    }
+    p {
+      line-height: 1.6;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Welcome to the Wedding of Christina and Julien aboard the Bay Mist</h1>
+    <img src="https://www.cascobaylines.com/wp-content/uploads/2017/03/Bay-Mist-1200x450.jpg" alt="Bay Mist Ferry Boat" class="boat-image">
+    <h2>Date: July 13, 2024</h2>
+    <h2>Location: Portland, Maine</h2>
+
+    <h3>About Our Special Day</h3>
+    <p>Join us for a truly unique and unforgettable wedding celebration as we exchange vows aboard the enchanting Bay Mist ferry boat, amidst the stunning backdrop of Casco Bay. Chrissy and Julien are thrilled to invite you to share in their joy as they embark on the journey of a lifetime.</p>
+
+    <h3>Schedule of Events</h3>
+    <ul>
+      <li><strong>Arrival Time:</strong> 3:45 PM</li>
+      <li><strong>Boat Departure:</strong> 4:00 PM</li>
+      <li><strong>Cruise Time:</strong> 3 Hours</li>
+    </ul>
+
+    <h3>Accommodations</h3>
+    <p>For out-of-town guests, we recommend booking accommodations in the charming city of Portland, where you can explore local attractions and enjoy the hospitality of this vibrant coastal community. You may find more affordable hotel options outside of town.</p>
+
+    <h3>RSVP</h3>
+    <p>Please RSVP by June 1, 2024, to ensure your place at our celebration. We kindly request that you let us know of any dietary restrictions or special accommodations you may require.</p>
+
+    <h3>Attire</h3>
+    <p>Attire for the wedding is semi-formal. We encourage guests to dress comfortably and stylishly, and be sure to check the weather and plan accordingly.</p>
+
+    <h3>Registry</h3>
+    <p>Your presence at our wedding is the greatest gift of all. However, if you wish to honor us with a gift, we have registered at [insert registry information here].</p>
+
+    <h3>Transportation</h3>
+    <p>While there is not any parking at the terminal, there is parking in the area. For those traveling from out of town, we recommend utilizing local transportation options or rideshare services for convenience.</p>
+
+    <h3>Contact Information</h3>
+    <p>For any inquiries or assistance, please don't hesitate to give us a call or send us a text. Chrissy: (603) 903-2780 - Julien: (405) 473-1911.</p>
+
+    <p>We look forward to celebrating this joyous occasion with you aboard the Bay Mist ferry boat, surrounded by love, laughter, and the beauty of the sea.</p>
+  </div>
+</body>
+</html>
