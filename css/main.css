@@ -1,49 +1,58 @@
 body {
-    margin: 60px auto;
-    width: 70%;
+    margin: 30px auto; /* Adjusted margin for better spacing */
+    width: 90%; /* Increased width for better readability */
+    max-width: 900px; /* Added max-width to prevent excessive stretching on larger screens */
     font-family: 'Ruluko', sans-serif; /* Using Ruluko font */
 }
+
 nav ul, footer ul {
-    font-family: 'Ruluko', sans-serif; /* Using Ruluko font */
-    padding: 0px;
+    padding: 0;
     list-style: none;
     font-weight: bold;
     color: #353563;
 }
+
 nav ul li, footer ul li {
     display: inline;
-    margin-right: 20px;
-    color: #353563;
+    margin-right: 10px; /* Reduced margin for tighter spacing */
 }
+
 a {
     text-decoration: none;
     color: #353563;
 }
+
 a:hover {
     text-decoration: underline;
 }
+
 h1 {
     font-size: 2.5em;
     font-family: 'Ruluko', sans-serif; /* Using Ruluko font */
 }
+
 h2 {
     font-size: 2em;
     font-family: 'Ruluko', sans-serif; /* Using Ruluko font */
 }
+
 p {
-    font-size: 1.5em;
-    line-height: 1.4em;
+    font-size: 1.2em; /* Reduced font size for better readability */
+    line-height: 1.6em; /* Increased line height for better spacing */
     color: #353563;
 }
+
 footer {
     border-top: 1px solid #353563;
-    font-size: 1.5em;
+    font-size: 1em; /* Reduced font size for better fitting */
     color: #353563;
+    padding-top: 20px; /* Added padding for better spacing */
+    text-align: center; /* Center-align footer content */
 }
 
 ul.posts {
     margin: 20px auto 40px;
-    font-size: 1.5em;
+    font-size: 1.2em; /* Reduced font size for better fitting */
 }
 
 ul.posts li {
