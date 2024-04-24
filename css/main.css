@@ -27,12 +27,12 @@ a:hover {
 }
 
 h1 {
-    font-size: 2em;
+    font-size: 2.5em;
     font-family: 'Ruluko', sans-serif; /* Using Ruluko font */
 }
 
 h2 {
-    font-size: 2.5em;
+    font-size: 2em;
     font-family: 'Ruluko', sans-serif; /* Using Ruluko font */
 }
 
@@ -59,6 +59,12 @@ ul.posts li {
     list-style: none;
 }
 
+/* Adjust the font size for list items */
+ul, ol {
+    font-size: 1.2em; /* Example size, adjust as needed */
+}
+
+/* Add the following rule to optimize images */
 img {
     max-width: 100%;
     height: auto; /* Ensures the image maintains its aspect ratio */
