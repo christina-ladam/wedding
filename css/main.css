@@ -58,3 +58,8 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+img {
+    max-width: 100%;
+    height: auto; /* Ensures the image maintains its aspect ratio */
+}
