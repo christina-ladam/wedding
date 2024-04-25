@@ -15,6 +15,7 @@ nav ul, footer ul {
 nav ul li, footer ul li {
     display: inline;
     margin-right: 10px; /* Reduced margin for tighter spacing */
+    color: #353563;
 }
 
 a {
